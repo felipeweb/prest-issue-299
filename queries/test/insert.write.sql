@@ -1,0 +1,1 @@
+INSERT INTO "Reply" (id, name) VALUES('{{.id}}','{{.name}}')
